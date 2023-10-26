@@ -3,7 +3,7 @@ Hello and welcome to my GitHub Reading-Notes repo.
 - This is a small write up in question/answer form to guide you to the point of this repo.
 
 What is this repo all about?
-- In this repo you will find notes from reading assignments taking during ops-201 as well script examples from our code challenges.
+- In this repo you will find notes from reading assignments taking during Cyber-Ops as well script examples from our code challenges.
 
 Why are you learning these skills?
 - I have decided to learn the new skills offered in this course so I can be more versitile within the private security industy and help run a provider Internet Provider business in my local area. 
