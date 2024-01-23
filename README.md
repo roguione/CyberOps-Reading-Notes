@@ -23,7 +23,9 @@ What scripts would you continue to improve if you had the time?
 What aspect of your shell scripting skillset do you hope to improve next?
 - I would like to improve upon my ability to create script freely with minimum use of outside resourses. 
 
+## View my notes in the Wiki for this repo
 
+### Thank You
 
 
 
